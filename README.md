@@ -1,4 +1,4 @@
-# AmenityReservationSystem
+# Amenity Reservation System
 
 An amenity reservation system where users/residents can log in and reserve a time to use a service such as fitness center or pool in a hypothetical apartment complex. Each amenity will have a certain capacity (number of people that can use the service at the same time) so that people can make use of the amenities safely during the Covid-19 pandemic.
 
@@ -12,7 +12,7 @@ An amenity reservation system where users/residents can log in and reserve a tim
 * Bootify
 * Maven
 * JPA
-* H2 In-Memory Database
+* MySQL Relational Database
 * Bootstrap
 
 ## Use Cases / User Stories
